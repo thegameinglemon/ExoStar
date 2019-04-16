@@ -1,0 +1,54 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at FindTextureMinMax.compute(35): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at FindTextureMinMax.compute(54): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=1999 outsize=1225 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Planet.Compute.cginc(3): 'exclude_renderers' : unknown pragma ignored
+  api=4 insize=3229 outsize=3401 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at GenerateChunkSlopeAndCurvatureMap.compute(30): integer divides may be much slower, try using uints if possible.
+  error: 1 plat 4 at Planet.Compute.cginc(3): 'exclude_renderers' : unknown pragma ignored
+  api=4 insize=1933 outsize=1957 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler

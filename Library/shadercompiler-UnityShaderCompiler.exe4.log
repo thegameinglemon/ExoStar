@@ -1,0 +1,56 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at FindTextureMinMax.compute(35): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at FindTextureMinMax.compute(54): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=1999 outsize=1193 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Planet.Compute.cginc(3): 'exclude_renderers' : unknown pragma ignored
+  api=4 insize=1825 outsize=37021 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Planet.Compute.cginc(3): 'exclude_renderers' : unknown pragma ignored
+  api=4 insize=2000 outsize=1717 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Planet.Compute.cginc(3): 'exclude_renderers' : unknown pragma ignored
+  api=4 insize=1486 outsize=5369 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler

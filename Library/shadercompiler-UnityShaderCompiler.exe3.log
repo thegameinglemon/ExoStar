@@ -1,0 +1,56 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at FindTextureMinMax.compute(35): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at FindTextureMinMax.compute(54): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=1999 outsize=1397 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5638 outsize=52161 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at ChunkBiomes.cginc(99): use of potentially uninitialized variable (adjustHeight)
+  error: 1 plat 4 at Planet.Compute.cginc(3): 'exclude_renderers' : unknown pragma ignored
+  api=4 insize=1505 outsize=37285 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Planet.Compute.cginc(3): 'exclude_renderers' : unknown pragma ignored
+  api=4 insize=247 outsize=293 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
